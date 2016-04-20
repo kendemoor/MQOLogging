@@ -1,4 +1,4 @@
-Currenltly only works for gathering and only while you're on the actual gathering page
+Currently only works for gathering and only while you're on the actual gathering page
 
 Paste this code into the console window to make it start logging ( press F12, copy paste and enter )
 
